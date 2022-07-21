@@ -1,0 +1,10 @@
+Company_name:brickred(3pillarglobal) 
+required_skills:JobDescription:
+Webuildbreakthroughsoftwareproductsthatpowerdigitalbusinesses.Weareaninnovativeproductdevelopmentpartnerwhosesolutionsdriverapidrevenue,marketshare,...MoreDetails
+
+
+KeySkills:
+
+
+softwareproducts,Python,DynamoDB 
+job_description:https://www.timesjobs.com/job-detail/python-developer-brickred-3pillar-global-4-to-7-yrs-jobid-yLg2v6MQrzZzpSvf__PLUS__uAgZw==&source=srp 

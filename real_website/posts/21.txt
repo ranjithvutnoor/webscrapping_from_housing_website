@@ -1,0 +1,8 @@
+Company_name:BRICKREDTECHNOLOGIESPVT.LTD.required_skills:JobDescription:
+DetailedJobDescription:1.Proficientinpythonandnumericalprogramming,especiallynumpy,opencv,sckit-image,sklearn.2.Basicunderstandingin3Dimageprocessin...MoreDetails
+
+
+KeySkills:
+
+
+imageprocessing,python,opencvjob_description:https://www.timesjobs.com/job-detail/python-developer-brickred-technologies-pvt-ltd-0-to-3-yrs-jobid-gFvdvfbX1XdzpSvf__PLUS__uAgZw==&source=srp

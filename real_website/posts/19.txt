@@ -1,0 +1,7 @@
+Company_name:hkinfosoftrequired_skills:JobDescription:
+ExpertinPython,frameworksuchasDjango,Flask,etc.UnderstandingofthethreadinglimitationsofPython&multi-processarchitecture.Event-drivenprogramminginPy...MoreDetails
+
+
+KeySkills:
+
+python,django,,frameworkjob_description:https://www.timesjobs.com/job-detail/python-developer-hk-infosoft-ahmedabad-2-to-3-yrs-jobid-qPkmbRWxs5dzpSvf__PLUS__uAgZw==&source=srp
